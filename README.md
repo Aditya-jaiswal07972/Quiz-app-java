@@ -11,12 +11,17 @@ A simple quiz application built using Java and Swing. This app allows users to t
 
 ## Screenshots
 
-![Quiz App Screenshot](Images/Screenshot 2025-03-06 155440.png)
-![Quiz App Screenshot](Images/Screenshot 2025-03-06 155455.png)
-![Quiz App Screenshot](Images/Screenshot 2025-03-06 155517.png)
-![Quiz App Screenshot](Images/Screenshot 2025-03-06 155546.png)
-![Quiz App Screenshot](Images/Screenshot 2025-03-06 155608.png)
-![Quiz App Screenshot](Images/Screenshot 2025-03-06 155646.png)
+![Quiz App Screenshot](https://github.com/Aditya-jaiswal07972/Quiz-app-java/blob/main/Images/Screenshot%202025-03-06%20155440.png?raw=true)
+
+![Quiz App Screenshot](https://github.com/Aditya-jaiswal07972/Quiz-app-java/blob/main/Images/Screenshot%202025-03-06%20155455.png?raw=true)
+
+![Quiz App Screenshot](https://github.com/Aditya-jaiswal07972/Quiz-app-java/blob/main/Images/Screenshot%202025-03-06%20155517.png?raw=true)
+
+![Quiz App Screenshot](https://github.com/Aditya-jaiswal07972/Quiz-app-java/blob/main/Images/Screenshot%202025-03-06%20155546.png?raw=true)
+
+![Quiz App Screenshot](https://github.com/Aditya-jaiswal07972/Quiz-app-java/blob/main/Images/Screenshot%202025-03-06%20155608.png?raw=true)
+
+![Quiz App Screenshot](https://github.com/Aditya-jaiswal07972/Quiz-app-java/blob/main/Images/Screenshot%202025-03-06%20155646.png?raw=true)
 
 
 ## Requirements
